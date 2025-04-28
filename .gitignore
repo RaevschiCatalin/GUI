@@ -1,0 +1,42 @@
+# Unity generated files
+[Ll]ibrary/
+[Tt]emp/
+[Bb]uild/
+[Bb]uilds/
+[Oo]bj/
+[Bb]in/
+[Mm]emoryCaptures/
+
+# Visual Studio / JetBrains Rider
+.vscode/
+.idea/
+*.sln
+*.csproj
+*.user
+*.unityproj
+*.pidb
+*.booproj
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Unity cache
+*.stackdump
+
+# Crash and temporary files
+*.log
+*.bak
+
+# Generated Lighting data
+LightingData.asset
+
+# Auto-generated meta files for cache (keep .meta files inside Assets/, but ignore cache ones)
+AssetDatabase3
+
+# Addressables (if you use it later)
+ServerData/
+
+# Rider specific
+*.sln.iml
+
