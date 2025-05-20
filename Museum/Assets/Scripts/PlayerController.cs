@@ -3,7 +3,7 @@ using UnityEngine.InputSystem;
 
 public class PlayerController : MonoBehaviour
 {
-    public float moveSpeed = 10f;
+    public float moveSpeed = 20;
     public float lookSensitivity = 0.2f;
 
     public Transform playerCamera;
@@ -39,9 +39,21 @@ public class PlayerController : MonoBehaviour
 
     void Update()
     {
-        HandleMovement();
+        // Poll the current 2D value every frame
+        Vector2 moveInput = input.Player.Move.ReadValue<Vector2>();
+
+        // Build a 3D direction, normalize so diagonal isn't faster
+        Vector3 rawDir = new Vector3(moveInput.x, 0f, moveInput.y);
+        Vector3 dir = rawDir.sqrMagnitude > 1f
+            ? rawDir.normalized
+            : rawDir;
+
+        Vector3 worldDir = transform.TransformDirection(dir);
+        controller.Move(worldDir * moveSpeed * Time.deltaTime);
+
         HandleLook();
     }
+
 
     void HandleMovement()
     {
