@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\school\\programare\\GUI\\GUI\\Museum\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4208D9CD-8A4F-410A-A339-489DB27A9E6C}|Assembly-CSharp.csproj|c:\\school\\programare\\gui\\gui\\museum\\assets\\scripts\\cameracollision.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4208D9CD-8A4F-410A-A339-489DB27A9E6C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\cameracollision.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4208D9CD-8A4F-410A-A339-489DB27A9E6C}|Assembly-CSharp.csproj|c:\\school\\programare\\gui\\gui\\museum\\assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4208D9CD-8A4F-410A-A339-489DB27A9E6C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CameraCollision.cs",
+              "DocumentMoniker": "C:\\school\\programare\\GUI\\GUI\\Museum\\Assets\\Scripts\\CameraCollision.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CameraCollision.cs",
+              "ToolTip": "C:\\school\\programare\\GUI\\GUI\\Museum\\Assets\\Scripts\\CameraCollision.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CameraCollision.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAawA4AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T14:47:55.196Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PlayerController.cs",
+              "DocumentMoniker": "C:\\school\\programare\\GUI\\GUI\\Museum\\Assets\\Scripts\\PlayerController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerController.cs",
+              "ToolTip": "C:\\school\\programare\\GUI\\GUI\\Museum\\Assets\\Scripts\\PlayerController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T13:59:01.04Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
