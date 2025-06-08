@@ -26,7 +26,7 @@ RenderSettings:
   m_AmbientIntensity: 1
   m_AmbientMode: 0
   m_SubtractiveShadowColor: {r: 0.42, g: 0.478, b: 0.627, a: 1}
-  m_SkyboxMaterial: {fileID: 10304, guid: 0000000000000000f000000000000000, type: 0}
+  m_SkyboxMaterial: {fileID: 2100000, guid: b42940c76df8b3844bd811057cd6fd37, type: 2}
   m_HaloStrength: 0.5
   m_FlareStrength: 1
   m_FlareFadeSpeed: 3
@@ -1262,7 +1262,7 @@ MonoBehaviour:
   m_LookAt: {fileID: 402472983}
   m_Follow: {fileID: 402472983}
   m_Lens:
-    FieldOfView: 90
+    FieldOfView: 70
     OrthographicSize: 5
     NearClipPlane: 0.3
     FarClipPlane: 3000
@@ -1820,7 +1820,7 @@ Camera:
     height: 1
   near clip plane: 0.3
   far clip plane: 3000
-  field of view: 90
+  field of view: 70
   orthographic: 0
   orthographic size: 5
   m_Depth: -1
@@ -2085,8 +2085,8 @@ BoxCollider:
   m_ProvidesContacts: 0
   m_Enabled: 1
   serializedVersion: 3
-  m_Size: {x: 113.11164, y: 0.6882178, z: 43.330326}
-  m_Center: {x: 5.184823, y: -0.15589556, z: 0.7699413}
+  m_Size: {x: 113.11164, y: 2.3744283, z: 43.330357}
+  m_Center: {x: 5.184823, y: -0.9989995, z: 0.7699423}
 --- !u!1 &1091525981 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 8849540875377177506, guid: b69709002e3bdba4da8fc9b626329565, type: 3}
@@ -2444,7 +2444,7 @@ RectTransform:
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
   m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 5, y: 5}
+  m_SizeDelta: {x: 10, y: 10}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1224229141
 MonoBehaviour:
