@@ -13,6 +13,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{4208D9CD-8A4F-410A-A339-489DB27A9E6C}|Assembly-CSharp.csproj|C:\\school\\programare\\GUI\\GUI\\Museum\\assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4208D9CD-8A4F-410A-A339-489DB27A9E6C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4208D9CD-8A4F-410A-A339-489DB27A9E6C}|Assembly-CSharp.csproj|c:\\school\\programare\\gui\\gui\\museum\\assets\\playerinputactions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4208D9CD-8A4F-410A-A339-489DB27A9E6C}|Assembly-CSharp.csproj|solutionrelative:assets\\playerinputactions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,8 +26,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PlayerInputActions.cs",
+              "DocumentMoniker": "C:\\school\\programare\\GUI\\GUI\\Museum\\Assets\\PlayerInputActions.cs",
+              "RelativeDocumentMoniker": "Assets\\PlayerInputActions.cs",
+              "ToolTip": "C:\\school\\programare\\GUI\\GUI\\Museum\\Assets\\PlayerInputActions.cs",
+              "RelativeToolTip": "Assets\\PlayerInputActions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T14:29:01.801Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -32,7 +49,7 @@
               "RelativeDocumentMoniker": "Assets\\Scripts\\DragCrontroller.cs",
               "ToolTip": "C:\\school\\programare\\GUI\\GUI\\Museum\\Assets\\Scripts\\DragCrontroller.cs",
               "RelativeToolTip": "Assets\\Scripts\\DragCrontroller.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAYwBoAAAA8AAAAAAAAAA==",
+              "ViewState": "AgIAACkAAAAAAAAAAAAQwDoAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-21T09:37:13.797Z",
               "EditorCaption": ""
@@ -56,9 +73,10 @@
               "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerController.cs",
               "ToolTip": "C:\\school\\programare\\GUI\\GUI\\Museum\\Assets\\Scripts\\PlayerController.cs",
               "RelativeToolTip": "Assets\\Scripts\\PlayerController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAADAAAAAAAAAAAAAowD8AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-20T13:59:01.04Z"
+              "WhenOpened": "2025-05-20T13:59:01.04Z",
+              "EditorCaption": ""
             }
           ]
         }

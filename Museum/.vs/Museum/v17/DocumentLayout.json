@@ -7,12 +7,24 @@
       "RelativeMoniker": "D:0:0:{4208D9CD-8A4F-410A-A339-489DB27A9E6C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\dragcrontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{4208D9CD-8A4F-410A-A339-489DB27A9E6C}|Assembly-CSharp.csproj|c:\\school\\programare\\gui\\gui\\museum\\assets\\scripts\\gametimer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4208D9CD-8A4F-410A-A339-489DB27A9E6C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gametimer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4208D9CD-8A4F-410A-A339-489DB27A9E6C}|Assembly-CSharp.csproj|c:\\school\\programare\\gui\\gui\\museum\\assets\\scripts\\snappoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4208D9CD-8A4F-410A-A339-489DB27A9E6C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\snappoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\school\\programare\\GUI\\GUI\\Museum\\Assets\\Scripts\\CameraCollision.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\CameraCollision.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4208D9CD-8A4F-410A-A339-489DB27A9E6C}|Assembly-CSharp.csproj|C:\\school\\programare\\GUI\\GUI\\Museum\\assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4208D9CD-8A4F-410A-A339-489DB27A9E6C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4208D9CD-8A4F-410A-A339-489DB27A9E6C}|Assembly-CSharp.csproj|C:\\school\\programare\\GUI\\GUI\\Museum\\assets\\playerinputactions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4208D9CD-8A4F-410A-A339-489DB27A9E6C}|Assembly-CSharp.csproj|solutionrelative:assets\\playerinputactions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,8 +34,46 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GameTimer.cs",
+              "DocumentMoniker": "C:\\school\\programare\\GUI\\GUI\\Museum\\Assets\\Scripts\\GameTimer.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameTimer.cs",
+              "ToolTip": "C:\\school\\programare\\GUI\\GUI\\Museum\\Assets\\Scripts\\GameTimer.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameTimer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T16:23:01.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SnapPoint.cs",
+              "DocumentMoniker": "C:\\school\\programare\\GUI\\GUI\\Museum\\Assets\\Scripts\\SnapPoint.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SnapPoint.cs",
+              "ToolTip": "C:\\school\\programare\\GUI\\GUI\\Museum\\Assets\\Scripts\\SnapPoint.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SnapPoint.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T15:32:56.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PlayerInputActions.cs",
+              "DocumentMoniker": "C:\\school\\programare\\GUI\\GUI\\Museum\\Assets\\PlayerInputActions.cs",
+              "RelativeDocumentMoniker": "Assets\\PlayerInputActions.cs",
+              "ToolTip": "C:\\school\\programare\\GUI\\GUI\\Museum\\Assets\\PlayerInputActions.cs",
+              "RelativeToolTip": "Assets\\PlayerInputActions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T14:29:01.801Z"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -32,14 +82,14 @@
               "RelativeDocumentMoniker": "Assets\\Scripts\\DragCrontroller.cs",
               "ToolTip": "C:\\school\\programare\\GUI\\GUI\\Museum\\Assets\\Scripts\\DragCrontroller.cs",
               "RelativeToolTip": "Assets\\Scripts\\DragCrontroller.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAGsAAAAAAAAAAAAhwHoAAABCAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-21T09:37:13.797Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "CameraCollision.cs",
               "DocumentMoniker": "C:\\school\\programare\\GUI\\GUI\\Museum\\Assets\\Scripts\\CameraCollision.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\CameraCollision.cs",
@@ -50,13 +100,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "PlayerController.cs",
               "DocumentMoniker": "C:\\school\\programare\\GUI\\GUI\\Museum\\Assets\\Scripts\\PlayerController.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerController.cs",
               "ToolTip": "C:\\school\\programare\\GUI\\GUI\\Museum\\Assets\\Scripts\\PlayerController.cs",
               "RelativeToolTip": "Assets\\Scripts\\PlayerController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAADAAAAAAAAAAAAAowD8AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-20T13:59:01.04Z"
             }

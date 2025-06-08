@@ -3,13 +3,16 @@ using UnityEngine.InputSystem;
 
 public class PlayerController : MonoBehaviour
 {
-    public float moveSpeed = 20;
+    public float moveSpeed = 20f;
+    public float runSpeed = 40f;
     public float lookSensitivity = 0.2f;
 
     public Transform playerCamera;
 
     private PlayerInputActions input;
     private CharacterController controller;
+    private bool isRunning = false;
+
 
     private Vector2 moveInput;
     private Vector2 lookInput;
@@ -25,6 +28,9 @@ public class PlayerController : MonoBehaviour
 
         input.Player.Look.performed += ctx => lookInput = ctx.ReadValue<Vector2>();
         input.Player.Look.canceled += ctx => lookInput = Vector2.zero;
+
+        input.Player.Run.performed += ctx => isRunning = true;
+        input.Player.Run.canceled += ctx => isRunning = false;
     }
 
     void OnEnable() => input.Enable();
@@ -49,7 +55,10 @@ public class PlayerController : MonoBehaviour
             : rawDir;
 
         Vector3 worldDir = transform.TransformDirection(dir);
-        controller.Move(worldDir * moveSpeed * Time.deltaTime);
+        //controller.Move(worldDir * moveSpeed * Time.deltaTime);
+
+        float currentSpeed = isRunning ? runSpeed : moveSpeed;
+        controller.Move(worldDir * currentSpeed * Time.deltaTime);
 
         HandleLook();
     }
