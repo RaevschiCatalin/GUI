@@ -1,17 +1,23 @@
-using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
 using TMPro;
 
 public class GameTimer : MonoBehaviour
 {
-     public float totalTime = 600f;
+    public static GameTimer Instance { get; private set; }   
+
+    public float totalTime = 600f;
     public TextMeshProUGUI timerText;
-    private float remainingTime;
-    private bool isRunning = true;
+
+    float remainingTime;
+    bool isRunning = true;
+
+    void Awake() => Instance = this;                        
 
     void Start()
     {
+        if (timerText == null)                               
+            timerText = GetComponent<TextMeshProUGUI>();
+
         remainingTime = totalTime;
     }
 
@@ -19,12 +25,11 @@ public class GameTimer : MonoBehaviour
     {
         if (!isRunning) return;
 
-        remainingTime -= Time.deltaTime;
-        remainingTime = Mathf.Max(0, remainingTime);
+        remainingTime = Mathf.Max(0, remainingTime - Time.deltaTime);
 
-        int minutes = Mathf.FloorToInt(remainingTime / 60f);
-        int seconds = Mathf.FloorToInt(remainingTime % 60f);
-        timerText.text = $"{minutes:00}:{seconds:00}";
+        int m = Mathf.FloorToInt(remainingTime / 60f);
+        int s = Mathf.FloorToInt(remainingTime % 60f);
+        timerText.text = $"{m:00}:{s:00}";
 
         if (remainingTime <= 0)
         {
@@ -33,9 +38,7 @@ public class GameTimer : MonoBehaviour
         }
     }
 
-    void OnTimeUp()
-    {
-        Debug.Log("Time's up!");
-        
-    }
+    public void Stop() => isRunning = false;                 
+
+    void OnTimeUp() => Debug.Log("Time's up!");
 }
