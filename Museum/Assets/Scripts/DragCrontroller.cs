@@ -122,6 +122,7 @@ public class DragController : MonoBehaviour
         grabbedRb.useGravity = false;
         //grabbedRb.transform.SetParent(grabbedSnap.target, true);
         grabbedSnap.isSnapped = true;
+        PuzzleManager.Instance?.RegisterSnap(grabbedSnap);
 
         Debug.Log("[DragController] Bone snapped into place!");
 
