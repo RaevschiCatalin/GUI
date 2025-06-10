@@ -904,7 +904,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   messagePanel: {fileID: 15642466}
   bodyText: {fileID: 346420447}
-  message: 
+  message: Casimir IV  was Grand Duke of Lithuania from 1440 and King of Poland from
+    1447 until his death in 1492. He was one of the most active Polish-Lithuanian
+    rulers.
 --- !u!1 &118008265
 GameObject:
   m_ObjectHideFlags: 3
@@ -4042,7 +4044,12 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   messagePanel: {fileID: 15642466}
   bodyText: {fileID: 346420447}
-  message: 
+  message: A typewriter is a mechanical or electromechanical machine for typing characters.
+    Typically, a typewriter has an array of keys, and each one causes a different
+    single character to be produced on paper by striking an inked ribbon selectively
+    against the paper with a type element. Thereby, the machine produces a legible
+    written document composed of ink and paper. By the end of the 19th century, a
+    person who used such a device was also referred to as a typewriter.
 --- !u!1 &798072300
 GameObject:
   m_ObjectHideFlags: 0
@@ -5276,7 +5283,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   messagePanel: {fileID: 15642466}
   bodyText: {fileID: 346420447}
-  message: 
+  message: Chinese ceramics are one of the most significant forms of Chinese art
+    and ceramics globally. They range from construction materials such as bricks
+    and tiles, to hand-built pottery vessels fired in bonfires or kilns, to the sophisticated
+    Chinese porcelain wares made for the imperial court and for export.
 --- !u!1 &962154483
 GameObject:
   m_ObjectHideFlags: 0
@@ -6190,7 +6200,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   messagePanel: {fileID: 15642466}
   bodyText: {fileID: 346420447}
-  message: 
+  message: Allegory of fire in the garden of Belvedere Palace. The figures by Giovanni
+    Stanetti dates to the beginning of the 18th century.
 --- !u!1 &1196025402
 GameObject:
   m_ObjectHideFlags: 0
@@ -7405,9 +7416,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   messagePanel: {fileID: 15642466}
   bodyText: {fileID: 346420447}
-  message: 'shield here
-
-'
+  message: "A shield is a piece of personal armour held in the hand, which may or
+    may not be strapped to the wrist or forearm. Shields are used to intercept specific
+    attacks, whether from close-ranged weaponry like spears or long ranged projectiles
+    such as arrows. \n->Looks like this one is missing"
 --- !u!1001 &1421556560
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -7838,7 +7850,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   messagePanel: {fileID: 15642466}
   bodyText: {fileID: 346420447}
-  message: 
+  message: In ancient Egypt, cats were represented in social and religious scenes
+    dating as early as 1980 BC. Several ancient Egyptian deities were depicted and
+    sculptured with cat-like heads such as Mafdet, Bastet and Sekhmet, representing
+    justice, fertility, and power, respectively.
 --- !u!1 &1482125781 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 7490732125933916382, guid: b69709002e3bdba4da8fc9b626329565, type: 3}
@@ -8799,7 +8814,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   messagePanel: {fileID: 15642466}
   bodyText: {fileID: 346420447}
-  message: a
+  message: A galea was a Roman soldier's metal helmet, most famously worn by the
+    heavy infantry of the legions. Some gladiators, specifically murmillo, also wore
+    bronze galeae with face masks and decorations, often a fish on its crest.
 --- !u!1 &1667483396 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -8391222552659086748, guid: b69709002e3bdba4da8fc9b626329565, type: 3}
@@ -8841,7 +8858,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   messagePanel: {fileID: 15642466}
   bodyText: {fileID: 346420447}
-  message: blablabla skelet, nu ajunge un os
+  message: 'Tyrannosaurus is a genus of large theropod dinosaur. The type species
+    Tyrannosaurus rex, often shortened to T. rex or colloquially T-Rex, is one of
+    the best represented theropods. It lived throughout what is now western North
+    America, on what was then an island continent known as Laramidia.
+
+    ->It seems
+    like he is missing a bone'
 --- !u!1 &1681606772 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 5224107945245373794, guid: b69709002e3bdba4da8fc9b626329565, type: 3}
@@ -9396,7 +9419,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   messagePanel: {fileID: 15642466}
   bodyText: {fileID: 346420447}
-  message: 
+  message: A sarcophagus is a coffin, most commonly carved in stone, and usually
+    displayed above ground, though it may also be buried. The earliest stone sarcophagi
+    were used by Egyptian pharaohs of the 3rd dynasty, which reigned from about 2686
+    to 2613 BC.
 --- !u!1 &1792055951 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 3681790978099765340, guid: 1f93313f441c0e94fb66a09201d04a9d, type: 3}
@@ -10251,7 +10277,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   messagePanel: {fileID: 15642466}
   bodyText: {fileID: 346420447}
-  message: 
+  message: A katana is a Japanese sword characterized by a curved, single-edged blade
+    with a circular or squared guard and long grip to accommodate two hands. Developed
+    later than the tachi, it was used by samurai in feudal Japan and worn with the
+    edge facing upward.
 --- !u!1 &1833571301 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -1272707564089210522, guid: b69709002e3bdba4da8fc9b626329565, type: 3}
