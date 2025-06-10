@@ -19,6 +19,7 @@ public class GameTimer : MonoBehaviour
             timerText = GetComponent<TextMeshProUGUI>();
 
         remainingTime = totalTime;
+       
     }
 
     void Update()
