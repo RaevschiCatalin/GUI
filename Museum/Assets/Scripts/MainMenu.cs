@@ -7,7 +7,7 @@ public class MainMenu : MonoBehaviour
 {
     public void StartGame()
     {
-        SceneManager.LoadScene("Museum"); 
+        SceneManager.LoadScene("Guide"); 
     }
 
     public void ExitGame()
