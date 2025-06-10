@@ -87,7 +87,6 @@ public class DragController : MonoBehaviour
             );
             grabbedRb.MovePosition(smoothed);
 
-            // CONTINUOUS SNAP CHECK
             if (grabbedSnap != null && !grabbedSnap.isSnapped)
             {
                 float dist = Vector3.Distance(grabbedRb.position, grabbedSnap.target.position);
