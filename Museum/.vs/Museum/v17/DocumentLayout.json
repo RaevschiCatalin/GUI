@@ -3,20 +3,24 @@
   "WorkspaceRootPath": "C:\\school\\programare\\GUI\\GUI\\Museum\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4208D9CD-8A4F-410A-A339-489DB27A9E6C}|Assembly-CSharp.csproj|c:\\school\\programare\\gui\\gui\\museum\\assets\\scripts\\puzzlemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4208D9CD-8A4F-410A-A339-489DB27A9E6C}|Assembly-CSharp.csproj|c:\\school\\programare\\gui\\gui\\museum\\assets\\scripts\\pedestalinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4208D9CD-8A4F-410A-A339-489DB27A9E6C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\pedestalinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4208D9CD-8A4F-410A-A339-489DB27A9E6C}|Assembly-CSharp.csproj|C:\\school\\programare\\GUI\\GUI\\Museum\\assets\\scripts\\dragcrontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4208D9CD-8A4F-410A-A339-489DB27A9E6C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\dragcrontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4208D9CD-8A4F-410A-A339-489DB27A9E6C}|Assembly-CSharp.csproj|C:\\school\\programare\\GUI\\GUI\\Museum\\assets\\scripts\\puzzlemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4208D9CD-8A4F-410A-A339-489DB27A9E6C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\puzzlemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4208D9CD-8A4F-410A-A339-489DB27A9E6C}|Assembly-CSharp.csproj|c:\\school\\programare\\gui\\gui\\museum\\assets\\scripts\\gametimer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4208D9CD-8A4F-410A-A339-489DB27A9E6C}|Assembly-CSharp.csproj|C:\\school\\programare\\GUI\\GUI\\Museum\\assets\\scripts\\gametimer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4208D9CD-8A4F-410A-A339-489DB27A9E6C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gametimer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4208D9CD-8A4F-410A-A339-489DB27A9E6C}|Assembly-CSharp.csproj|C:\\school\\programare\\GUI\\GUI\\Museum\\assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4208D9CD-8A4F-410A-A339-489DB27A9E6C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4208D9CD-8A4F-410A-A339-489DB27A9E6C}|Assembly-CSharp.csproj|C:\\school\\programare\\GUI\\GUI\\Museum\\assets\\scripts\\dragcrontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4208D9CD-8A4F-410A-A339-489DB27A9E6C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\dragcrontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4208D9CD-8A4F-410A-A339-489DB27A9E6C}|Assembly-CSharp.csproj|C:\\school\\programare\\GUI\\GUI\\Museum\\assets\\scripts\\snappoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -39,19 +43,31 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "PedestalInfo.cs",
+              "DocumentMoniker": "C:\\school\\programare\\GUI\\GUI\\Museum\\Assets\\Scripts\\PedestalInfo.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PedestalInfo.cs",
+              "ToolTip": "C:\\school\\programare\\GUI\\GUI\\Museum\\Assets\\Scripts\\PedestalInfo.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PedestalInfo.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAQwCQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T20:27:35.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "PuzzleManager.cs",
               "DocumentMoniker": "C:\\school\\programare\\GUI\\GUI\\Museum\\Assets\\Scripts\\PuzzleManager.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\PuzzleManager.cs",
               "ToolTip": "C:\\school\\programare\\GUI\\GUI\\Museum\\Assets\\Scripts\\PuzzleManager.cs",
               "RelativeToolTip": "Assets\\Scripts\\PuzzleManager.cs",
-              "ViewState": "AgIAACMAAAAAAAAAAAAgwDQAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAACQAAAAAAAAAAAAYwDQAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-09T12:45:49.8Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-09T12:45:49.8Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "GameTimer.cs",
               "DocumentMoniker": "C:\\school\\programare\\GUI\\GUI\\Museum\\Assets\\Scripts\\GameTimer.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\GameTimer.cs",
@@ -59,12 +75,11 @@
               "RelativeToolTip": "Assets\\Scripts\\GameTimer.cs",
               "ViewState": "AgIAABkAAAAAAAAAAAAkwCYAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-08T16:23:01.46Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-08T16:23:01.46Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "SnapPoint.cs",
               "DocumentMoniker": "C:\\school\\programare\\GUI\\GUI\\Museum\\Assets\\Scripts\\SnapPoint.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\SnapPoint.cs",
@@ -76,7 +91,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "PlayerInputActions.cs",
               "DocumentMoniker": "C:\\school\\programare\\GUI\\GUI\\Museum\\Assets\\PlayerInputActions.cs",
               "RelativeDocumentMoniker": "Assets\\PlayerInputActions.cs",
@@ -88,20 +103,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "DragCrontroller.cs",
               "DocumentMoniker": "C:\\school\\programare\\GUI\\GUI\\Museum\\Assets\\Scripts\\DragCrontroller.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\DragCrontroller.cs",
               "ToolTip": "C:\\school\\programare\\GUI\\GUI\\Museum\\Assets\\Scripts\\DragCrontroller.cs",
               "RelativeToolTip": "Assets\\Scripts\\DragCrontroller.cs",
-              "ViewState": "AgIAAGwAAAAAAAAAAAAAwH0AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAGIAAAAAAAAAAAAgwHAAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-21T09:37:13.797Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-21T09:37:13.797Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "PlayerController.cs",
               "DocumentMoniker": "C:\\school\\programare\\GUI\\GUI\\Museum\\Assets\\Scripts\\PlayerController.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerController.cs",
@@ -109,8 +123,7 @@
               "RelativeToolTip": "Assets\\Scripts\\PlayerController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAD8AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-20T13:59:01.04Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-20T13:59:01.04Z"
             }
           ]
         }
