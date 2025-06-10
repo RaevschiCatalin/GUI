@@ -1,5 +1,6 @@
 using UnityEngine;
 using TMPro;
+using UnityEngine.SceneManagement;
 
 public class GameTimer : MonoBehaviour
 {
@@ -46,10 +47,13 @@ public class GameTimer : MonoBehaviour
     public void PauseTimer() => isPaused = true;
     
     public void ResumeTimer() => isPaused = false;
-    
-    void OnTimeUp() 
+
+    void OnTimeUp()
     {
         Debug.Log("Time's up!");
+        SceneManager.LoadScene("GameOver");
+        Cursor.lockState = CursorLockMode.None;
+        Cursor.visible = true;
       
     }
 }
